@@ -15,7 +15,7 @@ Contoh ada pada link: shapefile.esri</br>
 <p align="justify">DBF adalah sebuah file yang menyimpan file tabular yang menyimpan data attribut.
 
 Membaca Jumlah data geometri dengan python:</p>
--          Membaca data shp</br>
+-          Membaca data shp 
 >> import shapefile </br>
 >> sf = shapefile.Reader(“namafile.shp”) </br>
 >> sf.shapes() </br>
