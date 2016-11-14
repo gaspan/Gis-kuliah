@@ -18,7 +18,7 @@ a.save('file.shp')</br>
 </br>
 
 <h2 align="justify"><strong>Penjelasan method-method pada Writer</strong></h2>
-<h4 align="justify"><strong>Point(x,y)</strong></p>
+<h4 align="justify"><strong>Point(x,y)</strong></h4>
 <p align="justify">menginputkan data berbentuk point/titik ke dalam file shp dan harus sesuai dengan format yang ditentukan ESRI </p>
 <h4 align="justify"><strong>Poly([a,b],[c,d])</strong></h4>
 <p align="justify"> menginputkan data geospasial yang berupa polygon(kembali ke titik awal), dan polyline(tidak kembali ke titik awal)</p>
