@@ -27,7 +27,7 @@ a.save('file.shp')</br>
  field maka panggil kembali method field contoh: field('Budaya','C','40')</p>
  <h4 align="justify"><strong>Record(''Bandung')</strong></h4>
  <p align="justify">mengisi tabel yang hanya terdapat 1 field dengan value = 'Bandung', jika ada 2 field maka record('Bandung','Kota')</p>
- <h4 align="justify"><strong>save('namafile')</strong</h4>
+ <h4 align="justify"><strong>save('namafile')</strong></h4>
  <p align="justify">digunakan menyimpan file berbentuk shapefile dikomputer</p>
  <h4 align="justify"><strong>Param Writer</strong></h4>
  <p align="justify"> shapefile     POLYGON</p>
