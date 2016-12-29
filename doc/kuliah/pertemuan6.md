@@ -1,6 +1,6 @@
 #instalasi map server di virtual box
 menggunakan centos 6.8 <br>
-<img src="../img/map.jpg">
+<img src="../../img/map.jpg">
 langkah: <br>
 1. add repo epel & elgis<br>
 .#rpm -Uvh http://download.fedoraproject.org/pub/epel/6/x86_64/epel:release-6-8.noeurch.rpm <br>
