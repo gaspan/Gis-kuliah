@@ -26,3 +26,16 @@ tambahan exclude = armadillo * <br>
 .#pip install map proxy
 .#install Vwsql
 .#pip instal Vwsql
+
+Nama : gentur ariyadi siddiq p.y. <br>
+NPM : 1144025 <br>
+Kelas : 3B <br>
+Prodi : D4 Teknik Informatika <br>
+Mata Kuliah : Sistem Informasi Geografis <br>
+
+Link Github : https://github.com/FirmanMFK/GIS--Geographic-Information-Systems <br>
+kambing.ui.ac.id/iso/Centos <br>
+
+scan plagiarisme <br>
+1. https://drive.google.com/open?id=0B7e_luHkgYYMcFFoN2N3YkVteEU <br>
+2. https://drive.google.com/open?id=0B7e_luHkgYYMcl9wNDF2STBxazQ <br>
